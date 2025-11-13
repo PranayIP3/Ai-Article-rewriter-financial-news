@@ -1,4 +1,4 @@
- #  ** Financial News AI Pipeline **
+ #   Financial News AI Pipeline 
 
 A smart content pipeline that scrapes Indian financial news, filters for quality, and rewrites articles in an engaging, conversational style that actually makes sense to regular readers.
 

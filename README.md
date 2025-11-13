@@ -1,4 +1,4 @@
-#🪙 Financial News AI Pipeline 🪙
+🪙 # Financial News AI Pipeline 🪙
 
 A smart content pipeline that scrapes Indian financial news, filters for quality, and rewrites articles in an engaging, conversational style that actually makes sense to regular readers.
 
@@ -6,7 +6,7 @@ Let's be honest - most financial news sounds like it was written by robots for r
 
 It Scrapes articles from major Indian financial sources (Google News, LiveMint, Moneycontrol), figures out which ones are actually worth reading, and then rewrites them in plain English. Think "explaining to a friend" rather than "corporate press release."
 
-## ⭐ The Problem It Solves
+⭐ ##  The Problem It Solves
 
 Financial news is everywhere, but most of it is either:
 - Dry, jargon-heavy content that puts you to sleep
@@ -15,7 +15,7 @@ Financial news is everywhere, but most of it is either:
 
 This pipeline handles all three issues automatically.
 
-## ⚙️ How It Works
+⚙️ ## How It Works
 
 **Phase 1: Smart Scraping**
 - Pulls articles from multiple trusted sources
@@ -44,7 +44,7 @@ Articles are scored on a 100-point scale based on:
 
 Only the top-scoring articles make it through the pipeline.
 
-##🤖 Tech Stack
+🤖 ## Tech Stack
 
 - **Web Scraping**: BeautifulSoup, newspaper3k
 - **AI/LLM**: OpenRouter API (free tier available)
